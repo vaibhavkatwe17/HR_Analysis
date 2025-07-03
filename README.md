@@ -4,6 +4,10 @@ This project presents a dynamic HR analytics dashboard built in Power BI to expl
 
 ![HR Analytics Dashboard](HR_Analysis.jpg)
 
+## Problem Statement ##
+High employee attrition poses a significant challenge for organizations, impacting productivity, morale, and recruitment costs. However, without a clear understanding of the underlying causes—such as job roles, salary levels, age groups, or education backgrounds—HR teams struggle to implement effective retention strategies.
+
+This project aims to analyze employee data to identify key patterns and risk factors associated with attrition. By leveraging Power BI to create an interactive dashboard, the objective is to help HR professionals make informed, data-driven decisions that reduce turnover and improve workforce stability
 ## Project Overview
 
 The dashboard provides a visual summary of key HR metrics such as attrition rate, average age, salary distribution, years of service, and more. It allows users to filter and explore trends based on gender, job role, education, salary brackets, and other important factors.
